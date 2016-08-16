@@ -1,1 +1,7 @@
+
 Only do this to the master's branch
+
+I make some changes (on testing branch)
+
+
+I resolved the merge conflict!!
